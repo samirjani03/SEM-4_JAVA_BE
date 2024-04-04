@@ -6,7 +6,7 @@ public class practical_4 {
    Scanner sc = new Scanner(System.in);
    System.out.println("Enter Value of Radius: ");
    int radius = sc.nextInt();
-   double area=.14*radius*radius;
+   double area=3.14*radius*radius;
    System.out.printf("Area of  Circle is : %.2f",area); 
     }
 }
